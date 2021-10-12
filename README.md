@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hey there! I'm ZengXiaoPang. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm 曾小胖. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jingwzeng&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jingwzeng&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jingwzeng&theme=tokyonight"&line_height=27">
 </p>
 
 <p align = "center">
