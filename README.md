@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
 - 🎓 &nbsp; 尽管这里可能并没有你需要的项目。
 - 💼 &nbsp; 但是你的到来会使这里变得蓬荜生辉。
-- 🌱 &nbsp; 目前我是刚进入职场的Web前端开发工程师。
-- ✍️ &nbsp; 就职于广州某游戏公司呀呀呀。
+- 🌱 &nbsp; 目前我是一名Web前端菜鸟。
+- ✍️ &nbsp; 就职于广州某游戏公司。
 - ☕ &nbsp; 既然来了，就是你我有缘，联系我交朋友。 
 
 <p align = "center">
